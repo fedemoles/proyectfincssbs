@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+.ultIngr {
+    background-color: rgb(96, 16, 16);
+}
+
+.susCrip {
+    background-color: rgb(96, 16, 16);
+}
+
+.taSac {
+    background-color: rgb(96, 16, 16);
+}
+
+.cloSe {
+    background-color: rgb(155, 8, 8);
+    border-radius: 1%;
+}
+
+.plaTaf {
+    background-color: rgb(130, 238, 153);
+    border-radius: 1%;
+}
+
+.aniMat {
+    --animate-duration: 3s;
+}
+
+.webUnd {
+    background-color: rgb(96, 16, 16);
+}
